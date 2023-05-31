@@ -1,0 +1,53 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/alex/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/alex/catkin_ws/src/camera_lidar_calibration/include/**",
+        "/home/alex/catkin_ws/src/chat_pkg/include/**",
+        "/home/alex/catkin_ws/src/custom_messages/include/**",
+        "/home/alex/catkin_ws/src/custom_services/include/**",
+        "/home/alex/catkin_ws/src/dumpster/include/**",
+        "/home/alex/catkin_ws/src/Engineer-gazebo-model/engineer_autocalib/include/**",
+        "/home/alex/catkin_ws/src/engineer_map_reconstruction/include/**",
+        "/home/alex/catkin_ws/src/first_pkg/include/**",
+        "/home/alex/catkin_ws/src/follow_bot/include/**",
+        "/home/alex/catkin_ws/src/image_converter/include/**",
+        "/home/alex/catkin_ws/src/image_streamer/include/**",
+        "/home/alex/catkin_ws/src/CamLaserCalibraTool/include/**",
+        "/home/alex/catkin_ws/src/lcd_commandor/include/**",
+        "/home/alex/catkin_ws/src/led_commandor/include/**",
+        "/home/alex/catkin_ws/src/lirs_ros_video_streaming/include/**",
+        "/home/alex/catkin_ws/src/map_revision/include/**",
+        "/home/alex/catkin_ws/src/mapping/include/**",
+        "/home/alex/catkin_ws/src/mapping_1/include/**",
+        "/home/alex/catkin_ws/src/my_actionlib/include/**",
+        "/home/alex/catkin_ws/src/my_turtle/include/**",
+        "/home/alex/catkin_ws/src/pylon-ros-camera/pylon_camera/include/**",
+        "/home/alex/catkin_ws/src/roboticsgroup_gazebo_plugins/include/**",
+        "/home/alex/catkin_ws/src/rosserial/rosserial_server/include/**",
+        "/home/alex/catkin_ws/src/rosserial/rosserial_test/include/**",
+        "/home/alex/catkin_ws/src/send_goals/include/**",
+        "/home/alex/catkin_ws/src/sensor_data_saver/include/**",
+        "/home/alex/catkin_ws/src/simple_counter/include/**",
+        "/home/alex/catkin_ws/src/tf_demo/include/**",
+        "/home/alex/catkin_ws/src/timer_package/include/**",
+        "/home/alex/catkin_ws/src/turtle_walk/include/**",
+        "/home/alex/catkin_ws/src/walk_bot/include/**",
+        "/home/alex/catkin_ws/src/wander_bot/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
